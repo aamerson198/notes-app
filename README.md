@@ -2,11 +2,9 @@
 
 ## Description
 
-The application is built with the intent to To take notes and save them on a server for future use.
+The application is built with the intent to take notes and save them on a server for future use.
 
-## Author
 
-This is an application built by Drew Amerson.
 
 ## Table of Contents
 
